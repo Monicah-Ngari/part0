@@ -1,4 +1,4 @@
-## 0.6: New Note in Single Page App Diagram
+# 0.6
 
 ```mermaid
 sequenceDiagram
